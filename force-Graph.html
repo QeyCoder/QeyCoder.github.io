@@ -2,6 +2,11 @@
 <meta charset="utf-8">
 <style>
 
+body {
+  margin: 0;
+  background: #222;
+  min-width: 960px;
+}
 .node {
   stroke: #fff;
   stroke-width: 1.5px;
@@ -23,8 +28,8 @@ var width = 960,
 var color = d3.scale.category20();
 
 var force = d3.layout.force()
-    .charge(-120)
-    .linkDistance(100)
+    .charge(-20)
+    .linkDistance(200)
     .size([width, height]);
 
 var svg = d3.select("body").append("svg")
