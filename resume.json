@@ -1,0 +1,220 @@
+{
+  "basics": {
+    "name": "Gaurav Dudeja",
+    "label": "Full Stack Developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAA0rAAAAJGQwNWFiMmNhLTlhMTYtNDY4Yy1hYzViLTY5NjA0ODRlZWJjMQ.jpg",
+    "email": "gauravddja@gmail.com",
+    "phone": "+919873552985 • +918708620094",
+    "website": "https://about.me/gauravdudeja",
+    "summary": "Currently working with Ephesoft Technology as Sr. Software engineer.My objective is to work on challenging problem and deliver better results and always want's to be a part of an organization which offers me opportunities to grow along with it ",
+    "location": {
+      "address": "H.no-156 W.No-11 Sohna",
+      "postalCode": "122103",
+      "city": "Gurgaon",
+      "countryCode": "IN",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Gaurav Dudeja",
+        "url": "https://www.linkedin.com/in/gaurav-dudeja-2411682b/"
+      },
+      {
+        "network": "Github",
+        "username": "dudejagaurav",
+        "url": "https://github.com/dudejagaurav"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Ephesoft Technology",
+      "position": "Sr. Software Developer",
+      "website": "http://www.ephesoft.com/",
+      "startDate": "April 2016",
+      "endDate": "",
+      "summary": "In Ephesoft Technology I'm working on multi technology stack | Big Data & Java Technology Stack - Java 1.8, Rest Services, Spring Framework, Unix, GWT, Hadoop, HBase, Spark, Yarn, Kafka & ZooKeeper.  ",
+      "highlights": [
+        "Text Analysis engine implementation using Apache UIMA RUTA.",
+        "Producer consumer framework implementation using Apache Kafka & Apache Camel",
+        " License server implementation using SHA & AES algorithm.",
+        "Yarn framework implementation for batch processing in clustered environment for parallel processing",
+        "Multinode Distributed crawler framework implementation to copy data from the repository using apache Kafka"
+      ]
+    },
+    {
+      "company": "Nagarro IT Services",
+      "position": "Associate Technology",
+      "website": "https://www.nagarro.com/en",
+      "startDate": "July 2015",
+      "endDate": "June 2016",
+      "summary": "In nagarro mostly i Worked on hybris(popular e-commrce framework) based on J2EE technology stack using Spring Core - Hibernate, Java(Java 1.8) ,Rest Services,jsp, Ajax, Log4j , Cron jobs, zxings etc",
+      "highlights": [
+        "Exposer to E-Commerce framework",
+        "Worked on booming technology Hybris",
+        "Developed batch processing framework to genreate QR codes for products",
+        "Email scheduling to end-users based on user interest",
+        "Payback Client Api integration with payment gateway"
+      ]
+    },
+    {
+      "company": "Softdive Technology",
+      "position": "Software Developer",
+      "website": "http://www.softdive.com/",
+      "startDate": "September 2013",
+      "endDate": "July 2015",
+      "summary": "Started my carrier in Softdive technology as intern and end as Software Developer. During this time i've work on many technology stacks Java, Andoird, GWT, Apache Cordova, Spring , Spring MVC , Spring Retry Spring batch, Ios , Beacons, Multithreading etc.",
+      "highlights": [
+        "IOS application Development using Apache Cordaova and GWT",
+        "Sms & Email Scheduling Framework Implementation",
+        "Android Application development with Geofencing, GCM push notification, Material Design, NewsLetter etc."
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Global INstitute of technology and management",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "July 2009",
+      "endDate": "August 2013",
+      "gpa": "7.4/10",
+      "courses": [
+        "Basic SQL",
+        " Java Introduction",
+        "Web Desigining",
+        ""
+      ]
+    },
+    {
+      "institution": "Haryana Board of School Education",
+      "area": "Senior Secondary ",
+      "studyType": "Science",
+      "startDate": "2007",
+      "endDate": "2009",
+      "gpa": "7.5/10",
+      "courses": [
+        "Math",
+        "Physics",
+        "Chemistry",
+        "English"
+      ]
+    },
+    {
+      "institution": "Haryana Board of School Education",
+      "area": "Secondary",
+      "studyType": "Science",
+      "startDate": "2005",
+      "endDate": "2007",
+      "gpa": "9.6/10",
+      "courses": [
+        "Math",
+        "English",
+        "Science"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web",
+      "level": "Master",
+      "keywords": [
+        "JSP ",
+        "Google Polymer",
+        "GWT",
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "DataBase",
+      "level": "Master",
+      "keywords": [
+        "MySql"
+      ]
+    },
+    {
+      "name": "Application servers",
+      "level": "Master",
+      "keywords": [
+        "Tomcat",
+        "Jetty"
+      ]
+    },
+    {
+      "name": "IDE",
+      "level": "Master",
+      "keywords": [
+        "Eclipse",
+        "Intelij",
+        "Spring suite",
+        "Android Studio",
+        "Netbeans"
+      ]
+    },
+    {
+      "name": "ORM",
+      "level": "Master",
+      "keywords": [
+        "Hibernate",
+        "i-Batis"
+      ]
+    },
+    {
+      "name": "Big Data",
+      "level": "Master",
+      "keywords": [
+        "Hbase",
+        "Spark",
+        "Hadoop",
+        "Kafka"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "level": "Master",
+      "keywords": [
+        "Apache Uima Ruta"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Master",
+      "keywords": [
+        "Maven",
+        "Gradle",
+        "NPM",
+        "Home Brew",
+        "Android",
+        "Spring",
+        "Rest",
+        "Post",
+        "JAX-B",
+        "Apache Cxf",
+        "SOAP"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent speaker"
+    }
+  ],
+  "interests": [],
+  "references": [
+    {
+      "name": "Pending",
+      "reference": ".........."
+    }
+  ]
+}
